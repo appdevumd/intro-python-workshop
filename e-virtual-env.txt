@@ -1,0 +1,9 @@
+Commands to create Python virtual environment:
+python3 -m venv venv
+
+Activation:
+Mac/Linux: source ./venv/bin/activate
+Windows: [TODO: FILL IN LATER]
+
+Packages: https://pypi.org/
+pip install requests
